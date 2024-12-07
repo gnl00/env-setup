@@ -4,6 +4,12 @@
 
 
 
+## Misc
+
+* Launchpad scroll laggy? **Maybe you turn Battery-save-mode**, Apple will  downgrade your ProMotion automatically…
+
+
+
 ## Tools
 
 1. Snipaste, for screenshot
